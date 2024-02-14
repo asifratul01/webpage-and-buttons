@@ -1,0 +1,37 @@
+.linkedin_first{
+    font-family:Arial;
+    background-color:rgba(68, 47, 255,1);
+    color:white;
+    border:none;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:40PX;
+    padding-right:40px;
+    border-radius:40px;
+    font-size:30px;
+    cursor:pointer;
+    margin-right:10px;
+}
+.linkedin_first:hover{
+    background-color:rgb(68, 99, 238);
+    transition:background-color 0.15s;
+}
+.linkedin_second{
+    font-family:Arial;
+    background-color:white;
+    color:blue;
+    border-color:rgba(0, 0, 255, 0.466);
+    border-style:solid;
+    border-width:2px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20PX;
+    padding-right:20px;
+    border-radius:30px;
+    font-size:30px;
+    cursor:pointer;
+}
+.linkedin_second:hover{
+    background-color:whitesmoke;
+    transition:background-color 0.15s;
+}

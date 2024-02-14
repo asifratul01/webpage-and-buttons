@@ -1,0 +1,21 @@
+.Amazon{
+    font-family:Arial;
+    background-color:yellow;
+    color:Black;
+    border:;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:40PX;
+    padding-right:40px;
+    border-radius:40px;
+    font-size:30px;
+    cursor:pointer;
+
+
+}
+.Amazon:hover{
+    background-color:rgb(195, 205, 50);
+}
+.Amazon:active{
+    opacity:0.7;
+}
